@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 /**
  * @author Adam Buckley (20062910)
- * 
  * References: Github for one class: The AVL Tree.
  */
 public class Main {

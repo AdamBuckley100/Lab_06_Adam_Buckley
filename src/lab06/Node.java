@@ -1,9 +1,5 @@
 package lab06;
 
-/**
- * @author antonio081014
- * @time Jul 5, 2013, 9:31:32 PM
- */
 public class Node<T extends Comparable<T>> implements Comparable<Node<T>>
 {
 	public T data;
