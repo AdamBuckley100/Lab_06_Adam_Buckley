@@ -6,8 +6,9 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * @author antonio081014
- * @time Jul 5, 2013, 9:31:10 PM
+ * @author Adam Buckley (20062910)
+ * 
+ * References: Github for one class: The AVL Tree.
  */
 public class Main {
 
@@ -17,10 +18,10 @@ public class Main {
 	{
 		readInFromTxtFile();
 		
-		searchAndStepsTaken();
+		//searchAndStepsTaken();
 		//doAnInorderTraversal();
 		
-		//inputSpanishWordGetEnglishMeaningBack();
+		inputSpanishWordGetEnglishMeaningBack();
 	}
 
 	public static void readInFromTxtFile()
